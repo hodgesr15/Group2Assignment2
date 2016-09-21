@@ -1,0 +1,39 @@
+.topblue {
+	
+}
+.name {
+	margin-bottom: 80px;
+	text-align: center;
+	color: blue;
+}
+.bio {
+	font-size: 16;
+	max-width: 500px;
+}
+.photo {
+	width: 600;
+	height: 400;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+.aboutme {
+	display: flex;
+}
+.body {
+	background-color: #d2b48c;
+}
+.me {
+	text-align: center;
+	text-decoration: underline;
+}
+.college {
+	max-width: 500px;
+}
+.puberty {
+	max-width: 500px;
+}
+.youngin {
+	max-width: 500px;
+}
