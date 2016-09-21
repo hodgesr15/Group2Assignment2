@@ -1,0 +1,74 @@
+body	{
+	margin: 0;
+	background-color: green;
+
+}
+.Title	{
+	color: black;
+	background-color: red;
+ 	font-size: 36px;
+ 	text-align: center;
+ 	font-family: Arial;
+}
+.EarlyLife	{
+	color: black;
+	text-align: left;
+	font-size: 18px;
+	font-family: Georgia;
+
+}
+.EarlyLifeDescription	{
+	color: black;
+	text-align: left;
+	display: flex;
+	font-size: 14px;
+	font-family: Georgia;
+	
+}
+.HighSchool	{
+	color: black;
+	text-align: left;
+	font-size: 18px;
+	font-family: Georgia;
+}
+.HighSchoolDescription	{
+	color: black;
+	text-align: left;
+	display: flex;
+	font-size: 14px;
+	font-family: Georgia;
+}
+.CollegiateCareer	{
+	color: black;
+	text-align: left;
+	font-size: 18px;
+	font-family: Georgia;
+}
+.CollegiateCareerDescription	{
+	color: black;
+	text-align: left;
+	display: flex;
+	font-size: 14px;
+	font-family: Georgia;
+}
+.MilitaryCareer	{
+	color: black;
+	text-align: left;
+	font-size: 18px;
+	font-family: Georgia;
+}
+.MilitaryCareerDescription	{
+	color: black;
+	text-align: left;
+	display: flex;
+	font-size: 14px;
+	font-family: Georgia;
+}
+
+.column50{
+	width:50%;
+}
+
+.column30{
+	width:30%;
+}
